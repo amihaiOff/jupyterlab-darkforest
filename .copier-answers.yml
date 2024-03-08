@@ -1,0 +1,19 @@
+# Changes here will be overwritten by Copier; NEVER EDIT MANUALLY
+_commit: v4.2.5
+_src_path: https://github.com/jupyterlab/extension-template
+author_email: amihaio@gmail.com
+author_name: amihaio
+data_format: string
+file_extension: ''
+has_binder: false
+has_settings: false
+kind: theme
+labextension_name: jupyterlab_darkforest
+mimetype: ''
+mimetype_name: ''
+project_short_description: A JupyterLab dark theme with forest colors
+python_name: jupyterlab_darkforest
+repository: https://github.com/amihaiOff/jupyterlab-darkforest
+test: false
+viewer_name: ''
+
